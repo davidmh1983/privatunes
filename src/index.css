@@ -1,0 +1,19 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+  background-color:#ccc;
+}
+
+.brand-logo{
+  margin-left:20px;
+}
+.height600{
+  height:600px;
+}
+.ellipsis{
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
